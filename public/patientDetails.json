@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "Name": "Pankaj Singh",
+        "Image": "./people pics/pankajsingh.jpg",
+        "PhoneNumber": "+91 61279 73213",
+        "DoctorName": "Dr. Anuradha Shelke",
+        "Injury": "Cough & Cold",
+        "Action": "Booked"
+    },
+    {
+        "id": 2,
+        "Name": "Cara Steven",
+        "Image": "./people pics/carasteven.jpg",
+        "PhoneNumber": "+91 80883 01229",
+        "DoctorName": "Dr. Rashmi Sangade",
+        "Injury": "Typhoid",
+        "Action": "Booked"
+    },
+    {
+        "id": 3,
+        "Name": "Pooja Kakde",
+        "Image": "./people pics/poojakakde.jpg",
+        "PhoneNumber": "+91 61279 94600",
+        "DoctorName": "Dr. Hemant Bhadke",
+        "Injury": "Malaria",
+        "Action": "Not Booked"
+    },
+    {
+        "id": 4,
+        "Name": "Megha Trivedi",
+        "Image": "./people pics/meghatrivedi.jpg",
+        "PhoneNumber": "+91 61279 74841",
+        "DoctorName": "Dr. Rashmi Sangade",
+        "Injury": "Dengue",
+        "Action": "Booked"
+    },
+    {
+        "id": 5,
+        "Name": "John Doe",
+        "Image": "./people pics/johndoe.jpg",
+        "PhoneNumber": "+91 68093 81244",
+        "DoctorName": "Dr. Mary Rose",
+        "Injury": "Pneumoina",
+        "Action": "Booked"
+    },
+    {
+        "id": 6,
+        "Name": "Nasir Uddin",
+        "Image": "./people pics/nasiruddin.jpg",
+        "PhoneNumber": "+91 70750 93408",
+        "DoctorName": "Dr. Anuradha Shelke",
+        "Injury": "COVID-19 Positive",
+        "Action": "Not Booked"
+    },
+    {
+        "id": 7,
+        "Name": "Rohan Deshpande",
+        "Image": "./people pics/rohandeshpande.jpg",
+        "PhoneNumber": "+91 61292 17499",
+        "DoctorName": "Dr. Tanveer Ahmed",
+        "Injury": "Fever and Eye Irritation",
+        "Action": "Booked"
+    },
+    {
+        "id": 8,
+        "Name": "Kiran Nikhade",
+        "Image": "./people pics/kirannikhade.jpg",
+        "PhoneNumber": "+91 80675 43003",
+        "DoctorName": "Dr. Mary Rose",
+        "Injury": "Migrane",
+        "Action": "Not Booked"
+    },
+    {
+        "id": 9,
+        "Name": "Sandeep Tayade",
+        "Image": "./people pics/sandeeptayade.jpg",
+        "PhoneNumber": "+91 61279 21121",
+        "DoctorName": "Dr. Tanveer Ahmed",
+        "Injury": "Stomach Ache",
+        "Action": "Booked"
+    },
+    {
+        "id": 10,
+        "Name": "Anmol Gupta",
+        "Image": "./people pics/anmolgupta.jpg",
+        "PhoneNumber": "+91 71881 43856",
+        "DoctorName": "Dr. Tanveer Ahmed",
+        "Injury": "Fracture",
+        "Action": "Booked"
+    }
+]
