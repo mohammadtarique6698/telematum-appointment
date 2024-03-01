@@ -2,7 +2,7 @@
 import React from "react";
 import { FaStar } from "react-icons/fa";
 
-const ColorStar = ({ color }) => {
+const ColorStar = () => {
   //console.log(color);
   const circleStyles = {
     borderRadius: "50%",
@@ -11,7 +11,7 @@ const ColorStar = ({ color }) => {
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
-    background: color,
+    background: "green",
   };
 
   const iconStyles = {
